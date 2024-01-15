@@ -19,7 +19,7 @@ e estou animado para aprender e contribuir para a comunidade de código aberto.
   
 ## Habilidades
 
-Atualmente, estou focado em fazer projetos com:
+Atualmente, estou focado em estudar e fazer projetos com:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gustavo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
