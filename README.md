@@ -1,5 +1,7 @@
-## 👋 Olá! Eu sou o Gustavo de Moraes, e estou começando minha jornada no mundo da programação e desenvolvimento de software. Sou apaixonado por programação full-stack, e estou animado para aprender e contribuir para a comunidade de código aberto.
+## 👋 Olá! Eu sou o Gustavo de Moraes👋 
 
+Estou começando minha jornada no mundo da programação e desenvolvimento de software. Sou apaixonado por programação full-stack, 
+e estou animado para aprender e contribuir para a comunidade de código aberto.
 
 </br>
 
@@ -17,7 +19,7 @@
   
 ## Habilidades
 
-Atualmente, estou focado em aprender:
+Atualmente, estou focado em fazer projetos com:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gustavo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -27,9 +29,6 @@ Atualmente, estou focado em aprender:
   <img align="center" alt="Gustavo-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> 
 </div>
 
-
-
-
 ## Objetivos
 
 Meus objetivos incluem:
@@ -37,7 +36,7 @@ Meus objetivos incluem:
 - Contribuir para projetos de código aberto.
 - Aprender e aprimorar minhas habilidades constantemente.
 - Colaborar com outros desenvolvedores e aprender com a comunidade.
-- Transição de carreira
+- Começar a trabalhar com programção
 
 ## Contato
 
