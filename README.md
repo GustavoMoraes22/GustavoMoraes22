@@ -29,6 +29,7 @@ Atualmente, estou focado em estudar e fazer projetos com:
   <img align="center" alt="Gustavo-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" /> 
   <img align="center" alt="Gustavo-Sequelize" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg"/> 
   <img align="center" alt="Gustavo-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /> 
+  <img align="center" alt="Gustavo-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /> 
 </div>
 
 ## Objetivos
