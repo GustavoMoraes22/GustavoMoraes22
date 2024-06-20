@@ -49,7 +49,7 @@ Sinta-se à vontade para entrar em contato comigo através do meu e-mail ou pela
   <a href = "mailto:DeveloperGustavoM@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://linkedin.com/in/gustavo-moraes-2659ba225" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-Estou ansioso para fazer parte desta incrível comunidade e compartilhar experiências com outros entusiastas de tecnologia. Vamos codificar juntos! 🚀
+Estou ansioso para fazer parte desta incrível comunidade e compartilhar experiências com outros entusiastas de tecnologia. Vamos codar juntos! 🚀
 
 
 
